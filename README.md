@@ -1,39 +1,78 @@
 # HR Analytics Dashboard 📊
 
-An end-to-end HR Analytics Dashboard built in Excel to analyze employee attrition, workforce demographics, job roles, satisfaction, and key HR metrics.
+An end-to-end **HR Analytics Dashboard built in Microsoft Excel** using the IBM HR Analytics Employee Attrition & Performance dataset. The project turns employee-level HR data into interactive views for workforce composition, performance, attrition, compensation, and data quality.
 
 ## 🎯 Project Objective
 
-The goal of this project is to transform HR employee data into an interactive and portfolio-ready dashboard that helps identify attrition patterns and workforce trends.
+The goal is to analyze workforce patterns and observed attrition using an interactive, portfolio-ready Excel dashboard. The dashboard is designed to help HR teams explore **where differences occur across employee groups** and identify areas that may need further investigation.
 
-## 🛠️ Tools Used
+> **Note:** This dataset is a snapshot with 1,470 employee records and does not contain hire dates. The dashboard therefore focuses on descriptive workforce and attrition analysis rather than time-based hiring/turnover trends.
+
+## 🛠️ Tools & Techniques
 
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
-- Excel Slicers
+- Excel Slicers / interactive filters
 - Conditional Formatting
-- Data Cleaning
+- Data Cleaning & Quality Checks
+- KPI Cards
 - Data Visualization
 - HR Analytics
+- Business Interpretation
 
-## 📌 Dashboard Highlights
+## 📊 Dashboard Pages
 
-- Employee Attrition Analysis
-- Department-wise and Job Role Analysis
-- Gender and Age-group Analysis
-- Job Satisfaction Analysis
-- Income and Experience Analysis
-- KPI cards and interactive filters
-- Business interpretations for major visuals
+The updated workbook contains six analytical views:
 
-## 🔎 Key Analysis Areas
+1. **HR Executive Summary** — high-level workforce KPIs, department attrition, performance and key HR insights.
+2. **Workforce Overview** — employee composition across departments, job roles, demographics, education and business travel.
+3. **Employee Performance** — performance ratings and employee satisfaction measures.
+4. **Attrition & Retention** — observed attrition patterns across departments, roles and employee groups.
+5. **Compensation & Growth** — monthly income and career-history measures such as years at company and years in current role.
+6. **Data Quality** — source information and validation checks for the dataset.
 
-- Overall employee attrition
-- Attrition by department and job role
-- Attrition by age and gender
-- Monthly income and experience patterns
+The workbook also includes:
+- **Cleaned Data** — prepared analysis-ready data.
+- **Raw Data** — source dataset used for the project.
+
+## 📌 Key Metrics & Analysis Areas
+
+- Total employees
+- Active employees
+- Attrition rate
+- Department-wise attrition
+- Job-role analysis
+- Gender and age-group analysis
+- Business travel and overtime patterns
 - Job satisfaction and work-life balance
-- Business-travel and overtime patterns
+- Performance ratings
+- Monthly income
+- Years at company and career progression
+- Data-quality checks
+
+## 🔎 Example Business Insights
+
+The Executive Summary currently highlights:
+
+- The workforce contains **1,470 employees**, with **1,233 active employees**.
+- Research & Development represents **961 employees (65.4%)** of the workforce.
+- In the current unfiltered department view, the observed attrition rate is **20.6% in Sales, 19.0% in Human Resources, and 13.8% in Research & Development**.
+
+These are **descriptive observations from the dataset**, not evidence that a particular factor causes attrition.
+
+## 🧹 Data Preparation
+
+The project includes a dedicated **Data Quality** view and a **Cleaned Data** sheet. The workflow includes:
+
+- Checking source row and field counts
+- Standardizing data for analysis
+- Reviewing data quality
+- Preparing analysis-ready fields
+- Separating raw source data from cleaned analysis data
+
+## 🖼️ Dashboard Preview
+
+![HR Analytics Dashboard](Screenshots/HR-Dashboard.png)
 
 ## 📁 Repository Structure
 
@@ -41,16 +80,24 @@ The goal of this project is to transform HR employee data into an interactive an
 HR-Analytics-Dashboard/
 ├── README.md
 ├── Dashboard/
-│   └── HR_Analytics_End_to_End_Dashboard.xlsx
+│   └── IBM_HR_Analytics_Dashboard.xlsx
 ├── Dataset/
-│   └── hr_dashboard_dataset_5000_records.csv
+│   └── HR_Analytics_Dataset.csv
 └── Screenshots/
     └── HR-Dashboard.png
 ```
 
-## 💡 Business Insight Approach
+## 💡 Portfolio Focus
 
-The dashboard is designed not only to display numbers, but also to provide short business interpretations that can help HR teams investigate potential attrition drivers and workforce patterns.
+This project demonstrates practical skills in:
+
+- Excel dashboard development
+- HR data analysis
+- Data cleaning and validation
+- KPI design
+- Interactive reporting
+- Data visualization
+- Business-focused interpretation
 
 ## 👩‍💻 Author
 
@@ -58,5 +105,4 @@ The dashboard is designed not only to display numbers, but also to provide short
 
 BCA Graduate | Aspiring Data Analyst
 
-Skills: Excel | SQL | Power BI | Prompt Engineering | AI Tools
-
+**Skills:** Excel | SQL | Power BI | Prompt Engineering | AI Tools
