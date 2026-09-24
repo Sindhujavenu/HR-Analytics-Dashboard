@@ -70,10 +70,6 @@ The project includes a dedicated **Data Quality** view and a **Cleaned Data** sh
 - Preparing analysis-ready fields
 - Separating raw source data from cleaned analysis data
 
-## 🖼️ Dashboard Preview
-
-![HR Analytics Dashboard](Screenshots/HR-Dashboard.png)
-
 ## 📁 Repository Structure
 
 ```
@@ -82,9 +78,7 @@ HR-Analytics-Dashboard/
 ├── Dashboard/
 │   └── IBM_HR_Analytics_Dashboard.xlsx
 ├── Dataset/
-│   └── HR_Analytics_Dataset.csv
-└── Screenshots/
-    └── HR-Dashboard.png
+   └── HR_Analytics_Dataset.csv
 ```
 
 ## 💡 Portfolio Focus
