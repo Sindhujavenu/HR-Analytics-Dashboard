@@ -101,19 +101,19 @@ HR-Analytics-Dashboard/
     ├── HR-Executive-Summary.png
     ├── Workforce-Overview.png
     ├── Employee-Performance.png
+    ├── Attrition-Retention.png
+    └── Compensation-Growth.png
 
 💡 Portfolio Focus
 This project demonstrates practical skills in:
-- Excel dashboard development
-- HR data analysis
-- Data cleaning and validation
-- KPI design
-- Interactive reporting
-- Data visualization
-- Business-focused interpretation
+- Excel Dashboard Development — building interactive dashboards using Pivot Tables, Pivot Charts, slicers, KPI cards and conditional formatting.
+- HR Data Analysis — analyzing workforce composition, employee performance, attrition, compensation and career-related patterns.
+- Data Cleaning & Validation — preparing raw employee data for reliable analysis and maintaining a separate cleaned dataset.
+- Data Visualization — presenting HR metrics and patterns through clear, business-focused visuals.
+- Business Interpretation — converting dashboard findings into concise observations that can support further HR investigation.
+- Portfolio Presentation — organizing the dataset, Excel dashboard and screenshots into a structured GitHub project.
+
 👩‍💻 Author
 Sindhuja Venugopal
 BCA Graduate | Aspiring Data Analyst
 Skills: Excel | SQL | Power BI | Prompt Engineering | AI Tools
-    ├── Attrition-Retention.png
-    └── Compensation-Growth.png
