@@ -12,7 +12,7 @@ The goal is to analyze workforce patterns and observed attrition using an intera
 
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
-- Excel Slicers / interactive filters
+- Excel Slicers / Interactive Filters
 - Conditional Formatting
 - Data Cleaning & Quality Checks
 - KPI Cards
@@ -32,6 +32,7 @@ The updated workbook contains six analytical views:
 6. **Data Quality** — source information and validation checks for the dataset.
 
 The workbook also includes:
+
 - **Cleaned Data** — prepared analysis-ready data.
 - **Raw Data** — source dataset used for the project.
 
@@ -70,33 +71,35 @@ The project includes a dedicated **Data Quality** view and a **Cleaned Data** sh
 - Preparing analysis-ready fields
 - Separating raw source data from cleaned analysis data
 
+## 🖼️ Dashboard Preview
+
+### HR Executive Summary
+![HR Executive Summary](Screenshots/HR-Executive-Summary.png)
+
+### Workforce Overview
+![Workforce Overview](Screenshots/Workforce-Overview.png)
+
+### Employee Performance
+![Employee Performance](Screenshots/Employee-Performance.png)
+
+### Attrition & Retention
+![Attrition & Retention](Screenshots/Attrition-Retention.png)
+
+### Compensation & Growth
+![Compensation & Growth](Screenshots/Compensation-Growth.png)
+
 ## 📁 Repository Structure
 
-```
+```text
 HR-Analytics-Dashboard/
 ├── README.md
 ├── Dashboard/
 │   └── IBM_HR_Analytics_Dashboard.xlsx
 ├── Dataset/
-   └── HR_Analytics_Dataset.csv
-```
-
-## 💡 Portfolio Focus
-
-This project demonstrates practical skills in:
-
-- Excel dashboard development
-- HR data analysis
-- Data cleaning and validation
-- KPI design
-- Interactive reporting
-- Data visualization
-- Business-focused interpretation
-
-## 👩‍💻 Author
-
-**Sindhuja Venugopal**
-
-BCA Graduate | Aspiring Data Analyst
-
-**Skills:** Excel | SQL | Power BI | Prompt Engineering | AI Tools
+│   └── HR_Analytics_Dataset.csv
+└── Screenshots/
+    ├── HR-Executive-Summary.png
+    ├── Workforce-Overview.png
+    ├── Employee-Performance.png
+    ├── Attrition-Retention.png
+    └── Compensation-Growth.png
