@@ -103,17 +103,27 @@ HR-Analytics-Dashboard/
     ├── Employee-Performance.png
     ├── Attrition-Retention.png
     └── Compensation-Growth.png
+```
 
-💡 Portfolio Focus
+## 💡 Portfolio Focus
+
 This project demonstrates practical skills in:
-- Excel Dashboard Development — building interactive dashboards using Pivot Tables, Pivot Charts, slicers, KPI cards and conditional formatting.
-- HR Data Analysis — analyzing workforce composition, employee performance, attrition, compensation and career-related patterns.
-- Data Cleaning & Validation — preparing raw employee data for reliable analysis and maintaining a separate cleaned dataset.
-- Data Visualization — presenting HR metrics and patterns through clear, business-focused visuals.
-- Business Interpretation — converting dashboard findings into concise observations that can support further HR investigation.
-- Portfolio Presentation — organizing the dataset, Excel dashboard and screenshots into a structured GitHub project.
 
-👩‍💻 Author
-Sindhuja Venugopal
-BCA Graduate | Aspiring Data Analyst
-Skills: Excel | SQL | Power BI | Prompt Engineering | AI Tools
+- **Excel Dashboard Development** — building interactive dashboards using Pivot Tables, Pivot Charts, slicers, KPI cards and conditional formatting.
+- **HR Data Analysis** — analyzing workforce composition, employee performance, attrition, compensation and career-related patterns.
+- **Data Cleaning & Validation** — preparing raw employee data for reliable analysis and maintaining a separate cleaned dataset.
+- **Data Visualization** — presenting HR metrics and patterns through clear, business-focused visuals.
+- **Business Interpretation** — converting dashboard findings into concise observations that can support further HR investigation.
+- **Portfolio Presentation** — organizing the dataset, Excel dashboard and screenshots into a structured GitHub project.
+
+## 👩‍💻 Author
+
+**Sindhuja Venugopal**
+
+**BCA Graduate | Aspiring Data Analyst**
+
+**Skills:** Excel | SQL | Power BI | Prompt Engineering | AI Tools
+
+---
+
+⭐ **If you find this project useful, feel free to explore the dashboard, dataset, and analysis.**
