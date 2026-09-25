@@ -101,5 +101,18 @@ HR-Analytics-Dashboard/
     ├── HR-Executive-Summary.png
     ├── Workforce-Overview.png
     ├── Employee-Performance.png
+💡 Portfolio Focus
+This project demonstrates practical skills in:
+- Excel dashboard development
+- HR data analysis
+- Data cleaning and validation
+- KPI design
+- Interactive reporting
+- Data visualization
+- Business-focused interpretation
+👩‍💻 Author
+Sindhuja Venugopal
+BCA Graduate | Aspiring Data Analyst
+Skills: Excel | SQL | Power BI | Prompt Engineering | AI Tools
     ├── Attrition-Retention.png
     └── Compensation-Growth.png
